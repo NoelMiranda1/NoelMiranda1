@@ -17,7 +17,7 @@ Actualmente, trabajo en **Playbypoint**, donde me dedico a construir soluciones 
 ---
 
 **¡Sigamos en contacto!**
-- [LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/noel-miranda-b29743201/))
+- [LinkedIn]([(https://www.linkedin.com/in/noel-miranda-b29743201/)])
 
 ¡Gracias por pasarte! 😄
 
